@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rina
-- 👀 I’m interested in Javascript, TypeScript, HTML & CSS, and Unity
-- 🌱 I’m currently learning Javascript and Typescript
+- 👀 I’m interested in Javascript, TypeScript, HTML & CSS, php, SQL, Ruby, and C#
+- 🌱 I’m currently learning Javascript, Typescript, HTML & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
