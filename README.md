@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rina
-- 👀 I’m interested in Javascript, TypeScript, HTML & CSS, php, SQL, Ruby, and C#
-- 🌱 I’m currently learning Javascript, Typescript, HTML & CSS
+- 👀 I’m interested in Javascript, HTML & CSS, php, mySQL
+- 🌱 I’m currently learning Typescript, Flutter & Dart, NoSQL, and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @rina.designs@outlook.com
 
