@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rina
-- 👀 I’m interested in Java, Javascript, HTML & CSS, php, mySQL
-- 🌱 I’m currently learning Java, Typescript, Flutter & Dart, NoSQL, and C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @rina.designs@outlook.com
+- 👀 I’m interested in Java, php, mySQL, Phyton, and Machine Learning
+- 🌱 I’m currently learning Java & Spring Boot, Javascript, and Python
+- 💞️ I’m looking to collaborate... (Still exploring my options)
+- 📫 How to reach me @sotelocz@sheridancollege.ca
 
 <!---
 Rina-Designs/Rina-Designs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
