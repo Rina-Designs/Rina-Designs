@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rina
-- 👀 I’m interested in Java, Phyton, and Machine Learning
-- 🌱 I’m currently learning Java & Spring Boot, Javascript, and Python
+- 👀 I’m interested in Java, Python, R, and Machine Learning
+- 🌱 I’m currently learning Java & Spring Boot, C, Javascript, and Python
 - 💞️ I’m looking to collaborate... (Still exploring my options)
 - 📫 How to reach me @sotelocz@sheridancollege.ca
 
